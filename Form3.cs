@@ -21,7 +21,6 @@ namespace Contacts
         private void btnBack_Click(object sender, EventArgs e)
         {
             activeForm();      /* prikazi glavnu formu prilikom klik na button Nazad */
-
         }
 
         private void Form3_FormClosing(object sender, FormClosingEventArgs e)
